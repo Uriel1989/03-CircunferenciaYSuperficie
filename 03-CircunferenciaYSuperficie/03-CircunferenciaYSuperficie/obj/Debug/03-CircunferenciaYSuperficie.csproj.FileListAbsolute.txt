@@ -1,0 +1,6 @@
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\03-CircunferenciaYSuperficie\03-CircunferenciaYSuperficie\bin\Debug\03-CircunferenciaYSuperficie.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\03-CircunferenciaYSuperficie\03-CircunferenciaYSuperficie\bin\Debug\03-CircunferenciaYSuperficie.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\03-CircunferenciaYSuperficie\03-CircunferenciaYSuperficie\obj\Debug\03-CircunferenciaYSuperficie.csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\03-CircunferenciaYSuperficie\03-CircunferenciaYSuperficie\obj\Debug\03-CircunferenciaYSuperficie.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\03-CircunferenciaYSuperficie\03-CircunferenciaYSuperficie\obj\Debug\03-CircunferenciaYSuperficie.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\03-CircunferenciaYSuperficie\03-CircunferenciaYSuperficie\obj\Debug\03-CircunferenciaYSuperficie.pdb
